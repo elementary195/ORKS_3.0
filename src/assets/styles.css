@@ -1,0 +1,17 @@
+a {
+  text-decoration: none;
+}
+.v-input__append-outer, .v-input__prepend-outer {
+  margin: 0 !important;
+}
+.user-select-none {
+  user-select: none;
+}
+.points-cell {
+  width: auto;
+  max-width: 65px;
+  min-width: 49px;
+  height: 24px;
+  border-radius: 4px;
+  padding: 0 5px;
+}
